@@ -1,6 +1,6 @@
 applications:
 
-- name: mn
+- name: MetodosNumericos
 
   memory: 128M
 
