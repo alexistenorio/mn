@@ -1,0 +1,7 @@
+applications:
+
+- name: mn
+
+  memory: 128M
+
+  buildpack: sdk-for-nodejs
